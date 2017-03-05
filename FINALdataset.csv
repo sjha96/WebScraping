@@ -1,0 +1,215 @@
+pid,Appliance_Type,Brand,kWh.yr,EER_Energy_Efficiency_Ratio,SEER_Seasonal_Energy_Efficiency_Ratio,Cooling_Capacity_BTUs,Energy_Star,Size,Product_Width_.in..,Product_Depth_.in..,Product_Height_.in..,Product_Volume_.cu._in..
+04238575000P,Accessories,Kenmore,-,-,-,-,-,-,-,-,-,-
+04275251000P,Window Air Conditioners,Kenmore,0,9,-,24500,No,-,-,-,-,-
+04298017000P,Air Purifiers & Dehumidifiers,AMCOR,-,-,-,-,Yes,8.5 in. W x 6.25 in. D x 13 in. H,8.5,6.25,13,690.625
+04219300000P,Air Purifiers & Dehumidifiers,SPT,-,-,-,-,Yes,13.4 in. W x 10 in. D x 20 in. H,13.4,10,20,2680
+04280050000P,Window Air Conditioners,Frigidaire,420,10.7,-,5000,No,16 in. W x 11 in. D x 12 in. H,16,11,12,2112
+04234377000P,Accessories,Kenmore,-,-,-,-,-,-,-,-,-,-
+04234823000P,Water Coolers & Filter Systems,Kenmore,-,-,-,-,-,-,-,-,-,-
+04271123000P,Window Air Conditioners,Kenmore,945,9.5,-,12000,No,14.5 in. W x 22 in. D x 20.25 in. H,14.5,22,20.25,6459.75
+04298035000P,Portable Air Conditioners,Whynter,-,-,-,12000,-,-,-,-,-,-
+04201080000P,Accessories,LG,-,-,-,-,-,-,-,-,-,-
+04299998000P,Accessories,Pur,-,-,-,-,-,-,-,-,-,-
+04201024000P,Window Air Conditioners,Frigidaire,695,10.8,-,12000,No,19 in. W x 19.75 in. D x 14.4 in. H,19,19.75,14.4,5403.6
+04280008000P,Accessories,Frigidaire,-,-,-,-,-,-,-,-,-,-
+04250351000P,Air Purifiers & Dehumidifiers,Kenmore,-,-,-,-,Yes,13 in. W x 9.25 in. D x 20.75 in. H,13,9.25,20.75,2495.1875
+04233102000P,Accessories,Kenmore,-,-,-,-,-,-,-,-,-,-
+04274900000P,Portable Air Conditioners,Royal Sovereign,680,11,-,9000,No,15.75 in. W x 14.75 in. D x 29.5 in. H,15.75,14.75,29.5,6853.21875
+04201110000P,Window Air Conditioners,LG,0,10.8,-,12000,No,19 in. W x 22.6 in. D x 14 in. H,19,22.6,14,6011.6
+04238460000P,Accessories,Kenmore,-,-,-,-,-,-,-,-,-,-
+04234477000P,Accessories,Kenmore,-,-,-,-,-,-,-,-,-,-
+04238440000P,Water Coolers & Filter Systems,Kenmore,-,-,-,-,-,-,-,-,-,-
+04238827000P,Water Softeners,Kenmore,-,-,-,-,-,16.5 in. W x 19.75 in. D x 47.75 in. H,16.5,19.75,47.75,15560.53125
+04280086000P,Portable Air Conditioners,Soleus Air,-,8.6,-,8000,No,11.8 in. W x 13.6 in. D x 31 in. H,11.8,13.6,31,4974.88
+04201027000P,Window Air Conditioners,Frigidaire,1260,10.7,-,18500,Yes,26 in. W x 26.84 in. D x 16.84 in. H,26,26.84,16.84,11751.6256
+04275151000P,Wall Air Conditioners,Kenmore,-,-,-,15000,-,-,-,-,-,-
+04219651000P,Air Purifiers & Dehumidifiers,Sunpentown,-,-,-,-,No,-,-,-,-,-
+04238306000P,Water Softeners,Kenmore,-,-,-,-,-,16.5 in. W x 19.75 in. D x 47.75 in. H,16.5,19.75,47.75,15560.53125
+04280105000P,Window Air Conditioners,Frigidaire,1755.87,9.4,-,10000,Yes,26.5 in. W x 25.5 in. D x 18.63 in. H,26.5,25.5,18.63,12589.2225
+04210002000P,Portable Air Conditioners,AMCOR,-,-,-,10000,No,20 in. W x 16 in. D x 33 in. H,20,16,33,10560
+04279081000P,Window Air Conditioners,Kenmore,555,10.8,-,8000,No,18.5 in. W x 15.7 in. D x 12.5 in. H,18.5,15.7,12.5,3630.625
+04247562000P,Accessories,Culligan,-,-,-,-,-,-,-,-,-,-
+04219102000P,Portable Air Conditioners,SPT,-,-,-,10000,No,15 in. W x 16 in. D x 30 in. H,15,16,30,7200
+04238509000P,Accessories,Culligan,-,-,-,-,-,-,-,-,-,-
+04201611000P,Window Air Conditioners,Hanover,4905,10.7,-,5200,Yes,16.25 in. W x 15.75 in. D x 12.31 in. H,16.25,15.75,12.31,3150.590625
+04279120000P,Portable Air Conditioners,DeLONGHI,-,-,-,12000,No,-,-,-,-,-
+04219120000P,Portable Air Conditioners,SPT,-,-,-,12000,No,-,-,-,-,-
+04201083000P,Portable Air Conditioners,DeLONGHI,0,9.1,-,10000,No,15.2 in. W x 17.8 in. D x 29.4 in. H,15.2,17.8,29.4,7954.464
+04201047000P,Portable Air Conditioners,Frigidaire,0,8.9,-,9000,No,20 in. W x 16.75 in. D x 32 in. H,20,16.75,32,10720
+04201103000P,Window Air Conditioners,Haier,1297.5,10.7,-,14500,Yes,26.5 in. W x 26.5 in. D x 18.625 in. H,26.5,26.5,18.625,13079.40625
+04201106000P,Window Air Conditioners,LG,1304,10.7,-,11500,No,23.63 in. W x 25.38 in. D x 17.06 in. H,23.63,25.38,17.06,10231.38356
+04209182000P,Accessories,No Brand,-,-,-,-,-,-,-,-,-,-
+04270062000P,Window Air Conditioners,Kenmore,420,10.7,-,6000,Yes,23.625 in. W x 18 in. D x 12.25 in. H,23.625,18,12.25,5209.3125
+04289120000P,Window Air Conditioners,Frigidaire,910,9.8,-,12000,No,22.25 in. W x 21.375 in. D x 16.75 in. H,22.25,21.375,16.75,7966.195313
+04202039000P,Air Purifiers & Dehumidifiers,Hisense,-,-,-,-,Yes,-,-,-,-,-
+04234645000P,Accessories,Culligan,-,-,-,-,-,-,-,-,-,-
+04219650000P,Air Purifiers & Dehumidifiers,SPT,-,-,-,-,Yes,-,-,-,-,-
+04238505000P,Accessories,Culligan,-,-,-,-,-,-,-,-,-,-
+04238520000P,Water Softeners,Kenmore Elite,-,-,-,-,-,17 in. W x 21 in. D x 48 in. H,17,21,48,17136
+04201033000P,Portable Air Conditioners,SPT,9373.2,9.38,-,10000,No,12 in. W x 15 in. D x 29.61 in. H,12,15,29.61,5329.8
+04219460000P,Air Purifiers & Dehumidifiers,SPT,-,-,-,-,No,-,-,-,-,-
+04234922000P,Water Coolers & Filter Systems,Kenmore,-,-,-,-,-,-,-,-,-,-
+04201017000P,Window Air Conditioners,Frigidaire,0,10.7,-,5000,No,16 in. W x 15.25 in. D x 12 in. H,16,15.25,12,2928
+04205231000P,Air Purifiers & Dehumidifiers,Whirlpool,-,-,-,-,Yes,-,-,-,-,-
+04201604000P,Window Air Conditioners,Keystone,917,9.8,-,10000,No,22.625 in. W x 21.4 in. D x 15.375 in. H,22.625,21.4,15.375,7444.190625
+04201084000P,Portable Air Conditioners,DeLONGHI,0,10,-,12000,No,15.2 in. W x 17.8 in. D x 29.4 in. H,15.2,17.8,29.4,7954.464
+04201010000P,Wall Air Conditioners,Frigidaire,805,9.4,-,10000,No,24 in. W x 20.5 in. D x 14.5 in. H,24,20.5,14.5,7134
+04219350000P,Air Purifiers & Dehumidifiers,SPT,-,-,-,-,No,-,-,-,-,-
+04234925000P,Accessories,No Brand,-,-,-,-,-,-,-,-,-,-
+04234657000P,Accessories,Culligan,-,-,-,-,-,-,-,-,-,-
+04203409000P,Water Softeners,Morton,-,-,-,-,-,-,-,-,-,-
+04238356000P,Water Softeners,Kenmore,-,-,-,-,-,16.5 in. W x 19.75 in. D x 47.75 in. H,16.5,19.75,47.75,15560.53125
+04270051000P,Window Air Conditioners,Kenmore,356,11,-,5200,No,18.5 in. W x 15.7 in. D x 12.5 in. H,18.5,15.7,12.5,3630.625
+04201120000P,Window Air Conditioners,Sharp,8063,10.8,-,10000,Yes,19 in. W x 20.2 in. D x 14.4 in. H,19,20.2,14.4,5526.72
+04238880000P,Water Softeners,Kenmore,-,-,-,-,-,17 in. W x 21 in. D x 48 in. H,17,21,48,17136
+04202141000P,Window Air Conditioners,Haier,950,9.5,-,12000,Yes,14.2 in. W x 23.2 in. D x 20.25 in. H,14.2,23.2,20.25,6671.16
+04202044000P,Air Purifiers & Dehumidifiers,DeLONGHI,-,-,-,-,Yes,-,-,-,-,-
+04209404000P,Portable Air Conditioners,Royal Sovereign,1100,9.09,-,13000,No,16.3 in. W x 11.5 in. D x 28.4 in. H,16.3,11.5,28.4,5323.58
+04201105000P,Window Air Conditioners,LG,1762,9.4,-,10000,Yes,29.25 in. W x 31.25 in. D x 20.5 in. H,29.25,31.25,20.5,18738.28125
+04201042000P,Window Air Conditioners,Frigidaire,836,10.8,-,8000,No,19 in. W x 19.75 in. D x 14.4 in. H,19,19.75,14.4,5403.6
+04234028000P,Water Coolers & Filter Systems,Kenmore,-,-,-,-,-,-,-,-,-,-
+04201098000P,Portable Air Conditioners,Haier,9000,9.5,-,7000,No,27 in. W x 28 in. D x 17.5 in. H,27,28,17.5,13230
+04273185000P,Window Air Conditioners,Kenmore,1297.5,10.7,-,18500,Yes,20.094 in. W x 17.625 in. D x 13.875 in. H,20.094,17.625,13.875,4913.924906
+04201041000P,Window Air Conditioners,Frigidaire,0,10.8,-,6000,No,19.56 in. W x 19.38 in. D x 12.38 in. H,19.56,19.38,12.38,4692.921264
+04238476000P,Accessories,Kenmore,-,-,-,-,-,-,-,-,-,-
+04294294000P,Portable Air Conditioners,Haier,na,9.5,-,11000,No,17.75 in. W x 15.25 in. D x 29.43 in. H,17.75,15.25,29.43,7966.333125
+04238572000P,Accessories,Kenmore,-,-,-,-,-,-,-,-,-,-
+04239356000P,Water Softeners,Kenmore,-,-,-,-,-,-,-,-,-,-
+04238461000P,Water Coolers & Filter Systems,Kenmore,-,-,-,-,-,-,-,-,-,-
+04247563000P,Accessories,Culligan,-,-,-,-,-,-,-,-,-,-
+04238817000P,Water Softeners,Kenmore,-,-,-,-,-,16.5 in. W x 19.5 in. D x 46 in. H,16.5,19.5,46,14800.5
+04202043000P,Air Purifiers & Dehumidifiers,DeLONGHI,-,-,-,-,Yes,-,-,-,-,-
+04298197000P,Window Air Conditioners,Frigidaire,608,9.8,-,8000,No,18.5 in. W x 15.7 in. D x 13.4 in. H,18.5,15.7,13.4,3892.03
+04234427000P,Water Softeners,Kenmore,-,-,-,-,-,-,-,-,-,-
+04201601000P,Window Air Conditioners,Keystone,0,10.7,-,5200,No,18.5 in. W x 16.31 in. D x 12.5 in. H,18.5,16.31,12.5,3771.6875
+04277125000P,Window Air Conditioners,Kenmore,917,10.4,-,11000,No,22.63 in. W x 23.3 in. D x 15.38 in. H,22.63,23.3,15.38,8109.55102
+04233086000P,Accessories,No Brand,-,-,-,-,-,-,-,-,-,-
+04299701000P,Air Purifiers & Dehumidifiers,Kenmore Elite,-,-,-,-,Yes,-,-,-,-,-
+04239306000P,Water Softeners,Kenmore,-,-,-,-,-,-,-,-,-,-
+04278902000P,Portable Air Conditioners,Royal Sovereign,-,-,-,12000,-,20.3 in. W x 14.6 in. D x 34.5 in. H,20.3,14.6,34.5,10225.11
+04275180000P,Window Air Conditioners,Kenmore,1992,9.8,-,18000,Yes,26.5 in. W x 26.5 in. D x 18.63 in. H,26.5,26.5,18.63,13082.9175
+04238376000P,Water Softeners,Kenmore,-,-,-,-,-,16.5 in. W x 19.75 in. D x 47.75 in. H,16.5,19.75,47.75,15560.53125
+04250501000P,Air Purifiers & Dehumidifiers,Kenmore,-,-,-,-,Yes,-,-,-,-,-
+04201025000P,Window Air Conditioners,Frigidaire,911,9.8,-,12000,No,22.625 in. W x 21.4 in. D x 15.375 in. H,22.625,21.4,15.375,7444.190625
+04254701000P,Air Purifiers & Dehumidifiers,Kenmore,-,-,-,-,Yes,-,-,-,-,-
+04279100000P,Portable Air Conditioners,Midea,-,8.9,-,10000,No,18.111 in. W x 28.54 in. D x 34.84 in. H,18.111,28.54,34.84,18008.37583
+04201107000P,Window Air Conditioners,LG,0,9.7,-,11500,No,23.63 in. W x 25.37 in. D x 17.85 in. H,23.63,25.37,17.85,10700.95184
+04201091000P,Portable Air Conditioners,Haier,10518,9.5,-,12000,No,17.8 in. W x 29.4 in. D x 15.3 in. H,17.8,29.4,15.3,8006.796
+04298037000P,Portable Air Conditioners,Whynter SNO,-,-,-,12000,-,-,-,-,-,-
+04201608000P,Portable Air Conditioners,Keystone,0,2.62,-,12000,No,17 in. W x 13.25 in. D x 27.75 in. H,17,13.25,27.75,6250.6875
+04270151000P,Window Air Conditioners,Kenmore,1058,10.7,-,15000,No,23.63 in. W x 25.37 in. D x 17.85 in. H,23.63,25.37,17.85,10700.95184
+04219123000P,Portable Air Conditioners,SPT,-,-,-,12000,No,16.5 in. W x 15.25 in. D x 30.5 in. H,16.5,15.25,30.5,7674.5625
+04209181000P,Accessories,Kenmore,-,-,-,-,-,-,-,-,-,-
+04201100000P,Window Air Conditioners,Haier,0,9.5,-,10000,Yes,18.32 in. W x 26.5 in. D x 24.5 in. H,18.32,26.5,24.5,11894.26
+04201603000P,Window Air Conditioners,Keystone,0,9.7,-,8000,No,18.44 in. W x 20.88 in. D x 13.88 in. H,18.44,20.88,13.88,5344.177536
+04201602000P,Window Air Conditioners,Keystone,0,10.7,-,6000,Yes,16.25 in. W x 15.75 in. D x 12.5 in. H,16.25,15.75,12.5,3199.21875
+04219122000P,Portable Air Conditioners,SPT,-,-,-,12000,No,15.75 in. W x 15.5 in. D x 30.5 in. H,15.75,15.5,30.5,7445.8125
+04270121000P,Window Air Conditioners,Kenmore,833,10.8,-,12000,Yes,19 in. W x 21.6 in. D x 14.4 in. H,19,21.6,14.4,5909.76
+04240026000P,Portable Air Conditioners,Frigidaire,0,8.7,-,12000,No,20 in. W x 16.75 in. D x 32 in. H,20,16.75,32,10720
+04201070000P,Portable Air Conditioners,Frigidaire,0,8.5,-,7000,No,20 in. W x 16.75 in. D x 32 in. H,20,16.75,32,10720
+04298040000P,Portable Air Conditioners,Whynter SNO,-,-,-,13000,-,-,-,-,-,-
+04270181000P,Window Air Conditioners,Kenmore,1295,10.7,-,18000,No,23.63 in. W x 25.37 in. D x 17.85 in. H,23.63,25.37,17.85,10700.95184
+04201044000P,Window Air Conditioners,Frigidaire,417,11.2,-,10000,Yes,23.625 in. W x 18 in. D x 12.25 in. H,23.625,18,12.25,5209.3125
+04202038000P,Thermostats & Accessories,LG,-,-,-,-,No,4.97 in. W x 3.36 in. D x 5.12 in. H,4.97,3.36,5.12,85.499904
+04201118000P,Window Air Conditioners,Sharp,575,10.5,-,6000,No,14.18 in. W x 23 in. D x 20.25 in. H,14.18,23,20.25,6604.335
+04234381000P,Accessories,Kenmore,-,-,-,-,-,-,-,-,-,-
+04280009000P,Accessories,Frigidaire,-,-,-,-,-,-,-,-,-,-
+04291998000P,Window Air Conditioners,Frigidaire,0,9.8,-,8000,No,18.5 in. W x 15.5 in. D x 13.4 in. H,18.5,15.5,13.4,3842.45
+04234825000P,Water Coolers & Filter Systems,Kenmore,-,-,-,-,-,-,-,-,-,-
+04233105000P,Accessories,Kenmore,-,-,-,-,-,-,-,-,-,-
+04271063000P,Window Air Conditioners,Kenmore,0,10.7,-,6000,No,16.25 in. W x 15.75 in. D x 12.5 in. H,16.25,15.75,12.5,3199.21875
+04219090000P,Portable Air Conditioners,SPT,-,-,-,9000,No,17 in. W x 16 in. D x 30 in. H,17,16,30,8160
+04201026000P,Window Air Conditioners,Frigidaire,0,10.7,-,15100,No,23.63 in. W x 25.38 in. D x 17.06 in. H,23.63,25.38,17.06,10231.38356
+04247564000P,Accessories,Culligan,-,-,-,-,-,-,-,-,-,-
+04270251000P,Window Air Conditioners,Kenmore,1990,9.4,-,25000,No,26.5 in. W x 26.5 in. D x 18.63 in. H,26.5,26.5,18.63,13082.9175
+04201018000P,Window Air Conditioners,Frigidaire,420,10.7,-,6000,Yes,20.9 in. W x 18.03 in. D x 12 in. H,20.9,18.03,12,4521.924
+04201030000P,Window Air Conditioners,Frigidaire,-,11,-,25000,Yes,18.5 in. W x 15.5 in. D x 12.5 in. H,18.5,15.5,12.5,3584.375
+04201034000P,Window Air Conditioners,SPT,835,10.8,-,12000,No,20 in. W x 21 in. D x 14.75 in. H,20,21,14.75,6195
+04239426000P,Water Softeners,Kenmore Elite,-,-,-,-,-,-,-,-,-,-
+04201121000P,Window Air Conditioners,Sharp,0,10.8,-,12000,Yes,18.5 in. W x 16.31 in. D x 12.5 in. H,18.5,16.31,12.5,3771.6875
+04201038000P,Air Purifiers & Dehumidifiers,SPT,-,-,-,-,Yes,-,-,-,-,-
+04238420000P,Water Softeners,Kenmore,-,-,-,-,-,17 in. W x 21 in. D x 48 in. H,17,21,48,17136
+04238056000P,Accessories,Kenmore,-,-,-,-,-,-,-,-,-,-
+04201109000P,Window Air Conditioners,LG,0,9.5,-,10000,No,14.5 in. W x 23.5 in. D x 20.25 in. H,14.5,23.5,20.25,6900.1875
+04219130000P,Portable Air Conditioners,SPT,-,-,-,13000,No,14 in. W x 20 in. D x 30.25 in. H,14,20,30.25,8470
+04201093000P,Portable Air Conditioners,Haier,11394,9.5,-,14000,No,20 in. W x 33.6 in. D x 16.6 in. H,20,33.6,16.6,11155.2
+04254351000P,Air Purifiers & Dehumidifiers,Kenmore,-,-,-,-,Yes,-,-,-,-,-
+04209406000P,Air Purifiers & Dehumidifiers,Royal Sovereign,-,-,-,-,Yes,-,-,-,-,-
+04298041000P,Portable Air Conditioners,Whynter SNO,1150,12.38,-,13000,-,20.5 in. W x 21 in. D x 19 in. H,20.5,21,19,8179.5
+04238478000P,Accessories,Kenmore,-,-,-,-,-,-,-,-,-,-
+04238454000P,Water Coolers & Filter Systems,Kenmore,-,-,-,-,-,-,-,-,-,-
+04219902000P,Portable Air Conditioners,SPT,-,-,-,9000,No,16 in. W x 16 in. D x 30 in. H,16,16,30,7680
+04238350000P,Water Softeners,Kenmore,-,-,-,-,-,16.5 in. W x 19.75 in. D x 47.75 in. H,16.5,19.75,47.75,15560.53125
+04202036000P,Wall Air Conditioners,LG,-,-,-,15100,No,42 in. W x 21 in. D x 16 in. H,42,21,16,14112
+04201117000P,Window Air Conditioners,LG,1110,10.8,-,8000,Yes,19 in. W x 21.5 in. D x 14.64 in. H,19,21.5,14.64,5980.44
+04238504000P,Accessories,Culligan,-,-,-,-,-,-,-,-,-,-
+04201114000P,Window Air Conditioners,LG,2001,9.4,-,24500,Yes,26.5 in. W x 26.5 in. D x 18.6 in. H,26.5,26.5,18.6,13061.85
+04234644000P,Water Coolers & Filter Systems,Culligan,-,-,-,-,-,-,-,-,-,-
+04238846000P,Water Softeners,Kenmore,-,-,-,-,-,16.5 in. W x 19.75 in. D x 47.75 in. H,16.5,19.75,47.75,15560.53125
+04202037000P,Thermostats & Accessories,LG,-,-,-,-,No,4.99 in. W x 1.66 in. D x 4.99 in. H,4.99,1.66,4.99,41.334166
+04270101000P,Window Air Conditioners,Kenmore,694,10.8,-,10000,No,19 in. W x 21.6 in. D x 14.4 in. H,19,21.6,14.4,5909.76
+04298018000P,Air Purifiers & Dehumidifiers,AMCOR,-,-,-,-,Yes,-,-,-,-,-
+04240500000P,Air Purifiers & Dehumidifiers,Frigidaire,-,-,-,-,Yes,-,-,-,-,-
+04238513000P,Accessories,Culligan,-,-,-,-,-,-,-,-,-,-
+04201012000P,Wall Air Conditioners,Frigidaire,959,9.4,-,12000,No,24 in. W x 20.5 in. D x 14.5 in. H,24,20.5,14.5,7134
+04238512000P,Accessories,Culligan,-,-,-,-,-,-,-,-,-,-
+04201013000P,Wall Air Conditioners,Frigidaire,959,9.4,-,12000,No,24 in. W x 20.5 in. D x 14.5 in. H,24,20.5,14.5,7134
+04240025000P,Portable Air Conditioners,Frigidaire,0,8.9,-,9000,Yes,20 in. W x 16.75 in. D x 32 in. H,20,16.75,32,10720
+04238445000P,Water Coolers & Filter Systems,Kenmore,-,-,-,-,-,-,-,-,-,-
+04201009000P,Wall Air Conditioners,Frigidaire,643,9.4,-,8000,Yes,24 in. W x 20.5 in. D x 14.5 in. H,24,20.5,14.5,7134
+04201037000P,Portable Air Conditioners,SPT,8409.6,9.38,-,9000,No,12 in. W x 15 in. D x 29.61 in. H,12,15,29.61,5329.8
+04275184000P,Portable Air Conditioners,Kenmore,1850,9.7,-,12000,No,26 in. W x 24.938 in. D x 16.844 in. H,26,24.938,16.844,10921.44747
+04201079000P,Accessories,LG,-,-,-,-,-,-,-,-,-,-
+04201019000P,Window Air Conditioners,Frigidaire,0,9.7,-,8000,No,16 in. W x 13.25 in. D x 12 in. H,16,13.25,12,2544
+04201035000P,Window Air Conditioners,SPT,470,9.7,-,6000,No,15.35 in. W x 16 in. D x 12.04 in. H,15.35,16,12.04,2957.024
+04238480000P,Accessories,Kenmore,-,-,-,-,-,-,-,-,-,-
+04270085000P,Wall Air Conditioners,Kenmore,638,9.4,-,8000,No,24 in. W x 19 in. D x 14.5 in. H,24,19,14.5,6612
+04275281000P,Window Air Conditioners,Kenmore,0,9.4,-,28000,No,26 in. W x 28 in. D x 17.69 in. H,26,28,17.69,12878.32
+04234407000P,Accessories,Eco Water,-,-,-,-,-,-,-,-,-,-
+04280100000P,Window Air Conditioners,Frigidaire,0,9.8,-,10000,No,19 in. W x 19 in. D x 14.5 in. H,19,19,14.5,5234.5
+04238426000P,Water Softeners,Kenmore Elite,-,-,-,-,-,17 in. W x 21 in. D x 48 in. H,17,21,48,17136
+04274902000P,Portable Air Conditioners,Royal Sovereign,66,10.5,-,10000,No,15.75 in. W x 14.75 in. D x 29.5 in. H,15.75,14.75,29.5,6853.21875
+04274901000P,Portable Air Conditioners,Royal Sovereign,62,11,-,12000,No,19.75 in. W x 15.75 in. D x 29.5 in. H,19.75,15.75,29.5,9176.34375
+04238501000P,Water Coolers & Filter Systems,Kenmore Elite,-,-,-,-,-,-,-,-,-,-
+04201028000P,Window Air Conditioners,Frigidaire,0,9.4,-,22000,No,26.5 in. W x 26.5 in. D x 18.63 in. H,26.5,26.5,18.63,13082.9175
+04238300000P,Water Softeners,Kenmore,-,-,-,-,-,16.5 in. W x 19.75 in. D x 46 in. H,16.5,19.75,46,14990.25
+04234405000P,Accessories,Eco Water,-,-,-,-,-,-,-,-,-,-
+04234824000P,Water Coolers & Filter Systems,Kenmore,-,-,-,-,-,-,-,-,-,-
+04231930000P,Accessories,No Brand,-,-,-,-,-,-,-,-,-,-
+04299999000P,Accessories,Pur,-,-,-,-,-,-,-,-,-,-
+04201609000P,Portable Air Conditioners,Keystone,0,2.67,-,14000,No,19.25 in. W x 15.63 in. D x 32 in. H,19.25,15.63,32,9628.08
+04298036000P,Portable Air Conditioners,Whynter,-,-,-,14000,-,-,-,-,-,-
+04202040000P,Air Purifiers & Dehumidifiers,Hisense,-,-,-,-,Yes,-,-,-,-,-
+04219400000P,Air Purifiers & Dehumidifiers,SPT,-,-,-,-,Yes,-,-,-,-,-
+04201095000P,Portable Air Conditioners,Haier,11394,9.5,-,14000,No,20 in. W x 33.6 in. D x 16.6 in. H,20,33.6,16.6,11155.2
+04272012000P,Portable Air Conditioners,Kenmore,672,8.24,-,12000,No,22.8 in. W x 11.8 in. D x 30 in. H,22.8,11.8,30,8071.2
+04201015000P,Wall Air Conditioners,Frigidaire,1169,9,-,14000,Yes,24 in. W x 20.5 in. D x 14.5 in. H,24,20.5,14.5,7134
+04201113000P,Window Air Conditioners,LG,530,9.7,-,18000,No,17.313 in. W x 12.813 in. D x 11.125 in. H,17.313,12.813,11.125,2467.875093
+04234373000P,Accessories,Kenmore,-,-,-,-,-,-,-,-,-,-
+04219101000P,Portable Air Conditioners,SPT,0,11.45,-,10000,No,15 in. W x 16 in. D x 30 in. H,15,16,30,7200
+04234370000P,Accessories,Kenmore,-,-,-,-,-,-,-,-,-,-
+04201099000P,Portable Air Conditioners,Haier,9641,9.5,-,9000,No,18.5 in. W x 34.3 in. D x 14 in. H,18.5,34.3,14,8883.7
+04219351000P,Air Purifiers & Dehumidifiers,SPT,-,-,-,-,No,-,-,-,-,-
+04239376000P,Water Softeners,Kenmore,-,-,-,-,-,-,-,-,-,-
+04219652000P,Home Decor,Sunpentown,-,-,-,-,-,-,-,-,-,-
+04238156000P,Water Coolers & Filter Systems,Kenmore,-,-,-,-,-,-,-,-,-,-
+04201023000P,Window Air Conditioners,Frigidaire,0,9.7,-,12000,No,16 in. W x 13.25 in. D x 12 in. H,16,13.25,12,2544
+04250701000P,Air Purifiers & Dehumidifiers,Kenmore,-,-,-,-,Yes,-,-,-,-,-
+04219121000P,Portable Air Conditioners,SPT,-,-,-,12000,No,16.5 in. W x 15.25 in. D x 30.5 in. H,16.5,15.25,30.5,7674.5625
+04219131000P,Portable Air Conditioners,SPT,-,-,-,13000,No,14 in. W x 20 in. D x 30.25 in. H,14,20,30.25,8470
+04201085000P,Portable Air Conditioners,DeLONGHI,0,0,-,13000,No,17 in. W x 15 in. D x 30.5 in. H,17,15,30.5,7777.5
+04201031000P,Window Air Conditioners,Frigidaire,820,9.8,-,28500,No,19.563 in. W x 19.125 in. D x 12.125 in. H,19.563,19.125,12.125,4536.476297
+04219100000P,Portable Air Conditioners,SPT,-,-,-,10000,No,12.8 in. W x 18.1 in. D x 33.1 in. H,12.8,18.1,33.1,7668.608
+04201605000P,Window Air Conditioners,Keystone,0,8.8,-,12000,No,24 in. W x 20.1 in. D x 14.4 in. H,24,20.1,14.4,6946.56
+04210001000P,Portable Air Conditioners,AMCOR,-,-,-,8000,No,12 in. W x 15 in. D x 30 in. H,12,15,30,5400
+04209405000P,Air Purifiers & Dehumidifiers,Royal Sovereign,-,-,-,-,Yes,-,-,-,-,-
+04210004000P,Portable Air Conditioners,AMCOR,-,-,-,12000,No,20 in. W x 31.5 in. D x 18 in. H,20,31.5,18,11340
+04298039000P,Portable Air Conditioners,Whynter SNO,-,-,-,10000,-,-,-,-,-,-
+04201036000P,Window Air Conditioners,SPT,556,10.8,-,8000,No,20 in. W x 16 in. D x 13 in. H,20,16,13,4160
+04201032000P,Window Air Conditioners,SPT,690,10.8,-,10000,No,20 in. W x 21 in. D x 15 in. H,20,21,15,6300
+04201115000P,Window Air Conditioners,LG,0,9.8,-,6000,No,22.6 in. W x 23.3 in. D x 15.4 in. H,22.6,23.3,15.4,8109.332
+04201014000P,Wall Air Conditioners,Frigidaire,1169,9,-,14000,Yes,24 in. W x 20.5 in. D x 14.5 in. H,24,20.5,14.5,7134
+04234929000P,Water Coolers & Filter Systems,Kenmore,-,-,-,-,-,-,-,-,-,-
+04291999000P,Window Air Conditioners,Frigidaire,0,8.8,-,10000,No,24 in. W x 20.1 in. D x 14.4 in. H,24,20.1,14.4,6946.56
+04289180000P,Window Air Conditioners,Frigidaire,1425,9.7,-,18000,Yes,26 in. W x 26.84 in. D x 16.84 in. H,26,26.84,16.84,11751.6256
+04201011000P,Wall Air Conditioners,Frigidaire,805,9.4,-,10000,Yes,24 in. W x 20.5 in. D x 14.5 in. H,24,20.5,14.5,7134
